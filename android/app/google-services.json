@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "115052364839",
+    "project_id": "delivery-management-syst-feb3c",
+    "storage_bucket": "delivery-management-syst-feb3c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115052364839:android:95420c011108b188ce7a02",
+        "android_client_info": {
+          "package_name": "com.example.delivery_driver_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjBmxdHM82CSTbkB4dHajUqZ-jZUTAXR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
